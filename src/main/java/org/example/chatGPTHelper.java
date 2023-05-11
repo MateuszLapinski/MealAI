@@ -11,7 +11,7 @@ import java.util.List;
 public class chatGPTHelper {
     OpenAiService service;
     public chatGPTHelper() {
-        service = new OpenAiService("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", Duration.ofSeconds(30));
+        service = new OpenAiService("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx", Duration.ofSeconds(30));
     }
 
 
